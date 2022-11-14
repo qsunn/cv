@@ -11,15 +11,21 @@ const items = [
         name: 'HellEn',
         stack: 'HTML, CSS, npm-packages and SCSS',
         about: 'English courses website',
-        linkGit: 'https://github.com/AlonaStasyshyna/event-booster',
-        linkDeploy: 'https://alonastasyshyna.github.io/event-booster'
+        linkGit: 'https://github.com/Lluppiter/hot-chilli-developers-HellEn',
+        linkDeploy: 'https://lluppiter.github.io/hot-chilli-developers-HellEn/'
     }, {
         name: 'Event Booster',
         stack: 'HTML, pure JS, npm-packages and SCSS, API',
         about: 'Event search application',
         linkGit: 'https://github.com/AlonaStasyshyna/event-booster',
         linkDeploy: 'https://alonastasyshyna.github.io/event-booster'
-    },
+    }, {
+        name: 'Wallet',
+        stack: 'React, Redux, npm-packages and SCSS, API',
+        about: 'Money circulation application',
+        linkGit: 'https://github.com/ZVA-23/wallet',
+        linkDeploy: 'https://zva-23.github.io/wallet/home'
+    }
 ];
 
 export const Projects = () => (
