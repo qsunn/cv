@@ -1,0 +1,1 @@
+export const LeftPart = ({ children }) => <div className="p-8 flex flex-col gap-8">{children}</div>;
