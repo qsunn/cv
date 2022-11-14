@@ -5,8 +5,8 @@ const items = [
         name: 'Web Studio',
         stack: 'HTML, CSS, SASS, JS, Parcel',
         about: 'Website for a web studio',
-        linkGit: 'https://github.com/AlonaStasyshyna/event-booster',
-        linkDeploy: 'https://alonastasyshyna.github.io/event-booster'
+        linkGit: 'https://github.com/qsunn/goit-hw/tree/main/goit-markup-hw-08',
+        linkDeploy: 'https://qsunn.github.io/goit-hw/goit-markup-hw-08/'
     }, {
         name: 'HellEn',
         stack: 'HTML, CSS, npm-packages and SCSS',
