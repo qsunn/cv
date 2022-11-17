@@ -7,7 +7,7 @@ export const About = () => (
         </div>
         <p>
             I like to create elegant solutions for difficult problems. Also I used to work as
-            a web designer in past, so I also understand this field from another side.<br />I
+            a web designer in past, so I also understand this field from another side. I
             am a fast learner, attentive to details, responsible and ready for challenging
             tasks.
         </p>
