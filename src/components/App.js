@@ -14,7 +14,7 @@ import { GraphicEditors } from "./lists/GraphicEditors";
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-zinc-900 text-white lg:mx-64 grid grid-cols-[320px_1fr]">
+    <div className="min-h-screen bg-zinc-900 text-white container grid grid-cols-[320px_1fr]">
       <LeftPart>
         <Photo />
         <Info />
