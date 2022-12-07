@@ -2,8 +2,13 @@ import { ListWrapper } from "../ListWrapper"
 
 const items = [
     {
+        name: 'Trainee Frontend Developer in Lvivity',
+        date: '03.2022-12.2022',
+        responsibilities: []
+    },
+    {
         name: 'Freelance Graphic Designer',
-        date: '2017-2022',
+        date: '07.2017-03.2022',
         responsibilities: [
             'Prepare and produce proposals and presentations for clients',
             'Design and develop custom logos, media materials and printed design for clients',
