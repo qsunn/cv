@@ -3,7 +3,6 @@ import { ListWrapper } from "../ListWrapper";
 
 const items = [
     'HTML/CSS/SASS',
-    'Bootstrap',
     'Tailwind',
     'Material UI',
     'GIT',
@@ -12,7 +11,7 @@ const items = [
     'TypeScript',
     'React',
     'Redux',
-    'Node.js',
+    'Next.js',
     'REST API'
 ]
 

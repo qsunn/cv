@@ -2,19 +2,19 @@ import { ListWrapper } from "../ListWrapper"
 
 const items = [
     {
-        name: 'Trainee Frontend Developer in Lvivity',
+        name: 'Frontend Developer in Zhorben Inc.',
+        date: '01.2023-till now',
+        responsibilities: []
+    },
+    {
+        name: 'Frontend Developer in Lvivity',
         date: '03.2022-12.2022',
         responsibilities: []
     },
     {
         name: 'Freelance Graphic Designer',
         date: '07.2017-03.2022',
-        responsibilities: [
-            'Prepare and produce proposals and presentations for clients',
-            'Design and develop custom logos, media materials and printed design for clients',
-            'Interpret brand and marketing needs from client briefings and meetings, using clarifying questions to determine exact requirements, leading to fewer revision requests',
-            'Understanding the needs of clients'
-        ]
+        responsibilities: []
     },
 ];
 
