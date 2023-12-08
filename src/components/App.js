@@ -12,9 +12,13 @@ import { WorkExperience } from "./lists/WorkExperience";
 import { Education } from "./lists/Education";
 import { GraphicEditors } from "./lists/GraphicEditors";
 import useMedia from "use-media";
+import { useEffect } from "react";
 
 const App = () => {
-  const isMobile = useMedia({ minWidth: '1024px' });
+  useEffect(() => {
+    document.title = "CV Boychyshyn";
+  }, []);
+  const isMobile = useMedia({ minWidth: "1024px" });
   return (
     <div className="min-h-screen bg-zinc-900 text-white grid grid-flow-row lg:grid-flow-col">
       <LeftPart>
@@ -35,6 +39,6 @@ const App = () => {
       </RightPart>
     </div>
   );
-}
+};
 
 export default App;
